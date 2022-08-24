@@ -1,0 +1,9 @@
+.skillsets li{
+    list-style-type: none;
+    margin-left: -2em; 
+}
+
+.skillsets-container{
+    margin-top: -5em;
+    justify-content: center;
+}
